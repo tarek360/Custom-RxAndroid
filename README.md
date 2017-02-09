@@ -1,0 +1,1 @@
+Code in this repo is copied from [RxAndroid](https://github.com/ReactiveX/RxAndroid)
